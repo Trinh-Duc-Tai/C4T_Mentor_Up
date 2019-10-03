@@ -1,0 +1,11 @@
+<ul>
+    <li>News</li>
+    <li>Stories</li>
+    <li>Culture</li>
+  </ul>
+
+  <ul id="cartoon">
+    <li>Daily cartoons</li>
+    <li>Cartoon caption contest</li>
+    <li>Caption bank</li>
+</ul>
